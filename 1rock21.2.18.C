@@ -1,5 +1,7 @@
 #include <stdio.h>
-int main(void) {
+#include<conio.h>
+int main()
+{
 	char a;
 	printf("enter the string:",a);
 	scanf("%s",&a);
